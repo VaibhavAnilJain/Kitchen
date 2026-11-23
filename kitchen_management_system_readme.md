@@ -27,7 +27,7 @@ A Node.js and Express.js backend solution designed to optimize inventory managem
 
 ### Prerequisites
 
-* [Node.js](https://nodejs.org/) (v18+ recommended)
+* [Node.js](https://nodejs.org/)
 * npm
 * MongoDB instance (local or MongoDB Atlas)
 
@@ -53,7 +53,7 @@ A Node.js and Express.js backend solution designed to optimize inventory managem
    STRIPE_SECRET_KEY=your_stripe_secret_key
    SENDGRID_API_KEY=your_sendgrid_api_key
    ```
-   *(Adjust the variable names to match those referenced in your `./src` configuration files.)*
+  
 
 ### Running the Application
 
@@ -72,12 +72,4 @@ A Node.js and Express.js backend solution designed to optimize inventory managem
   npm run swagger
   ```
 
-## License
 
-This project is licensed under the **ISC** License.
-
-## Author
-
-**Vaibhav Jain**
-* **GitHub:** [VaibhavAnilJain](https://github.com/VaibhavAnilJain)
-* **LinkedIn:** [vaibhav-jain-39a365187](https://www.linkedin.com/in/vaibhav-jain-39a365187)
